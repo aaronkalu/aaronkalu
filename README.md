@@ -27,11 +27,3 @@ When I'm not writing code, you'll find me working through a classical piano piec
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-for-badge&logo=git&logoColor=white)
 
 ---
-
-### 📫 Connect with me
-Feel free to reach out - always happy to connect.
-
-- **Portfolio:** [aaronkalupa.de](https://aaronkalupa.de)
-- **LinkedIn:** [linkedin.com/in/aaron-kalupa](https://linkedin.com/in/aaron-kalupa)
-
----
