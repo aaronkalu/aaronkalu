@@ -31,7 +31,7 @@ When I'm not writing code, you'll find me working through a classical piano piec
 ### 📫 Connect with me
 Feel free to reach out - always happy to connect.
 
-- **LinkedIn:** [linkedin.com/in/aaron-kalupa](https://linkedin.com/in/aaron-kalupa)
 - **Portfolio:** [aaronkalupa.de](https://aaronkalupa.de)
+- **LinkedIn:** [linkedin.com/in/aaron-kalupa](https://linkedin.com/in/aaron-kalupa)
 
 ---
